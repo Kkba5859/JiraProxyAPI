@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7B16dh+UT6CnOh140dLwcZLdyysKE7CgAtFDbSHfLO8=",
+  "Source": "JiraProxyAPI",
+  "BasePath": "_content/JiraProxyAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

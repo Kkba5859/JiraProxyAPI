@@ -1,0 +1,4 @@
+@JiraProxyAPI_HostAddress = https://jiraproxyapi20241105135746.azurewebsites.net
+
+GET {{JiraProxyAPI_HostAddress}}/weatherforecast/
+Accept: application/json

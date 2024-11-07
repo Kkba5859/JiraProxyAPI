@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\JiraProxyAPI\obj\Release\net8.0\PubTmp\Out\JiraProxyAPI.exe
+C:\Users\Administrator\source\repos\JiraProxyAPI\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Administrator\source\repos\JiraProxyAPI\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Administrator\source\repos\JiraProxyAPI\obj\Release\net8.0\PubTmp\Out\JiraProxyAPI.dll
+C:\Users\Administrator\source\repos\JiraProxyAPI\obj\Release\net8.0\PubTmp\Out\JiraProxyAPI.deps.json
+C:\Users\Administrator\source\repos\JiraProxyAPI\obj\Release\net8.0\PubTmp\Out\JiraProxyAPI.runtimeconfig.json
+C:\Users\Administrator\source\repos\JiraProxyAPI\obj\Release\net8.0\PubTmp\Out\JiraProxyAPI.pdb
+C:\Users\Administrator\source\repos\JiraProxyAPI\obj\Release\net8.0\PubTmp\Out\Atlassian.Jira.dll
+C:\Users\Administrator\source\repos\JiraProxyAPI\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Administrator\source\repos\JiraProxyAPI\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\JiraProxyAPI\obj\Release\net8.0\PubTmp\Out\RestSharp.dll
+C:\Users\Administrator\source\repos\JiraProxyAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\source\repos\JiraProxyAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\source\repos\JiraProxyAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
